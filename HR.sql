@@ -1,4 +1,4 @@
-
+ABCDLKF;SDNFDSBFSDKLF
 dev server---->sit server --->uat server--->production
 
 
@@ -18,7 +18,7 @@ CLIENT REQUIREMENT:(CHANGE REQUEST)
 3>COMMIT
 4>PUSH
 
-
+SDFKDSFKDSGFKJ
 LOCAL SERVER--->STAGING AREA--->GLOBAL SERVER
 
 
